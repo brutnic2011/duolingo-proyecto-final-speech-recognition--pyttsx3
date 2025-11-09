@@ -12,3 +12,5 @@ desde ese momento supe que era algo a lo que lo podia usar para mi proyecto fina
 *varias clases, luego de dar speech recognition, dimos otro tema, que tambien me intereso, llegando a unirlo con lo que
 antes tenia, eso era la sintesis de voz, usando su biblioteca llamada "pyttsx3" la cual hace lo contrario que speech recognition, eso es
 pasar de texto a voz, asi como un loquendo, pero en python, incluyendolo en mi proyecto final.*
+
+> este proyecto pienso hacerlo en codigo sin pagina web ni bot de discord, ya que para mi, el usuario le gustaria mas no tener que abrir paginas web ni instalarse discord para correr el proyecto haciendolo mas rapido, y ese tiempo que ahorro en no ponerlo en los lugares vistos anteriormente, me ayuda a mejorar la experiencia, como haciendolo mas completo o convertirlo mas prolijo y comodo.
