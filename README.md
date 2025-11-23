@@ -4,7 +4,7 @@
 ## comienzo de la idea
 
 *todo este proyecto comenzo comenzo cuando dimos la bibloteca "speech_recognition" la cual sirve para pasar 
-de voz a texto usando tu microfono, hablas y te dice lo que dijiste, esto lo usamos para crear un duilingo que fue muy divertido y entretenido.
+de voz a texto usando tu microfono, hablas y te dice lo que dijiste, esto lo usamos para crear un duolingo que fue muy divertido y entretenido.
 desde ese momento supe que era algo a lo que lo podia usar para mi proyecto final.*
 
 ## la llegada de la sintesis de voz
